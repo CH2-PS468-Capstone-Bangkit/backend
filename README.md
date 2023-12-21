@@ -21,6 +21,7 @@ Directrory:
 + model
   + result_model.h5
   + new_result_model.h5
++ images
 + deploy.bat
 + main.py
 + model_main.py
